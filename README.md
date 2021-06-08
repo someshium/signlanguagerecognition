@@ -1,2 +1,2 @@
 # signlanguagerecognition
-ASL recogniser
+American Sign Language Recogniser
